@@ -1,2 +1,4 @@
 # GitH_check
-Uncomplicated script to check any GitH's profile
+Apply the following modules:
+1. pip install requests
+2. pip install beautifulsoup4
